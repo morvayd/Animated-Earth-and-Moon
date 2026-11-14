@@ -2,7 +2,7 @@
 
 A lightweight, interactive 3D visualization of Earth and the Moon, built with Python. Experience a smooth, hardware-accelerated rotation of our home planet with interactive controls.
 
-<img src="earth-preview.png" alt="3D Earth viewer" width="300">
+<img src="World.png" alt="3D Earth viewer" width="300">
 
 ## ✨ Features
 
